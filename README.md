@@ -7,8 +7,8 @@ Trabalho em alguns projetos para a organização [@noodlespicante](https://githu
 ----
 Há mais chances de resposta no **Discord**
 
-• **Discord**: Piter#6645 (me encontre na [Noodles Picante](https://discord.gg/P9dhMJQ)) - **Não mande pedido de amizade**. Me mencione no chat de conversas que eu respondo.
-• Twitter: [@PiterOfc](https://twitter.com/piterofc) (acesso pouco, mas tem chances de você receber resposta... cerca de 1 mês depois de enviar?)
+• **Discord**: Piter#6645 (me encontre na [Noodles Picante](https://discord.gg/P9dhMJQ)) - **Não mande pedido de amizade**. Me mencione no chat de conversas que eu respondo.\n
+• Twitter: [@PiterOfc](https://twitter.com/piterofc) (acesso pouco, mas tem chances de você receber resposta... cerca de 1 mês depois de enviar?)\n
 • Email: [phenriquenbphnb@gmail.com](mailto:phenriquenbphnb@gmail.com?subject=Contato - GitHub) (quase não acesso, recomendo nem tentar esse método)
 
 🧨 Noodles Picante
