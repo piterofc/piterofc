@@ -25,8 +25,8 @@ Há mais chances de resposta no **Discord**
 
 📊 Meus status
 ----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piter15821&show_icons=true&include_all_commits=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piter15821&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piter15821&show_icons=true&include_all_commits=true&locale=pt-br)](https://github.com/piter15821)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piter15821&layout=compact)](https://github.com/piter15821)<br>
 
 <!--
 **piter15821/piter15821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
