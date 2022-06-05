@@ -11,6 +11,7 @@ Há mais chances de resposta no **Discord**
 \- **Não mande pedido de amizade!** Me mencione no [#conversas](https://discord.com/channels/584926863437070336/696846893468090450) que eu respondo.<br>
 • Twitter: [@PiterOfc](https://twitter.com/piterofc) (acesso pouco, mas tem chances de você receber resposta... cerca de 2 semanas depois de enviar?)<br>
 • Email: phenriquenbphnb@gmail.com (quase não acesso, recomendo nem tentar esse método)<br>
+• Email (Club Penguin): phenriquenbcp@gmail.com (quase não acesso tbm, recomendo nem tentar)<br>
 
 🧨 Noodles Picante
 ----
