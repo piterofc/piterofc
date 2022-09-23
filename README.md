@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Me chamo Pedro Henrique, tenho 16 anos e meu idioma principal é Português-Brasil (porém falo também inglês e espanhol).<br>
+Me chamo Pedro Henrique, tenho 17 anos (15/08) e meu idioma principal é Português-Brasil (porém falo também inglês e espanhol).<br>
 Trabalho em alguns projetos para a organização [@noodlespicante](https://github.com/noodlespicante).
 
 📩 Contato
