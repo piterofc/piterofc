@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Me chamo Pedro Henrique, tenho 17 anos (15/08) e meu idioma principal é Português-Brasil (porém falo também inglês e espanhol).<br>
+Me chamo Pedro Henrique, tenho 17 anos (15/08/2005) e meu idioma principal é Português-Brasil (porém falo também inglês e espanhol).<br>
 Trabalho em alguns projetos para a organização [@noodlespicante](https://github.com/noodlespicante).
 
 📩 Contato
@@ -26,5 +26,5 @@ Há mais chances de resposta no **Discord**
 
 📊 Meus status
 ----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piter15821&show_icons=true&include_all_commits=true&locale=pt-br)](https://github.com/piter15821)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piter15821&locale=pt-br&layout=compact)](https://github.com/piter15821)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piterofc&show_icons=true&include_all_commits=true&locale=pt-br)](https://github.com/piterofc)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piterofc&locale=pt-br&layout=compact)](https://github.com/piterofc)<br>
