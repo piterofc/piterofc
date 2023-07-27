@@ -1,13 +1,14 @@
 ### Olá 👋
 
 Me chamo Pedro Henrique, tenho 17 anos (15/08/2005) e meu idioma principal é Português-Brasil (porém falo também inglês e espanhol).<br>
-Trabalho em alguns projetos para a organização [@noodlespicante](https://github.com/noodlespicante).
+- Sou gerente de comunidade e assessor da [Noodles Picante](https://www.noodlespicante.com) ([@noodlespicante](https://github.com/noodlespicante))
+- Sou coordenador de programação geral do [Penguin Dimension](https://www.conexaopinguim.pw) ([@PenguinDimension](https://github.com/PenguinDimension))
 
 📩 Contato
 ----
 Há mais chances de resposta no **Discord**
 
-• Discord: Piter#6645 (me encontre na [Noodles Picante](https://discord.gg/P9dhMJQ))<br>
+• Discord: @piterofc (antigo Piter#6645) - me encontre no [servidor da Noodles Picante](https://discord.gg/P9dhMJQ)<br>
 \- **Não mande pedido de amizade!** Me mencione no [#conversas](https://discord.com/channels/584926863437070336/696846893468090450) que eu respondo.<br>
 • Twitter: [@PiterOfc](https://twitter.com/piterofc) (acesso pouco, mas tem chances de você receber resposta... cerca de 2 semanas depois de enviar?)<br>
 • Email: phenriquenbphnb@gmail.com (quase não acesso, recomendo nem tentar esse método)<br>
@@ -19,7 +20,7 @@ Há mais chances de resposta no **Discord**
 ------ | ------ | ------ | ------ | ------ |
 
    [Discord]: <https://discord.gg/P9dhMJQ>
-   [Site]: <https://www.noodlespicante.site>
+   [Site]: <https://www.noodlespicante.com>
    [YouTube]: <https://www.youtube.com/c/NoodlesPicante>
    [Twitter]: <https://twitter.com/NoodlesPicante>
    [GitHub]: <https://github.com/noodlespicante>
