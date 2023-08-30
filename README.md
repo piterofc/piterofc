@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Me chamo Pedro Henrique, tenho 17 anos (15/08/2005) e meu idioma principal é Português-Brasil (porém falo também inglês e espanhol).<br>
+Me chamo Pedro Henrique, tenho 18 anos (15/08/2005) e meu idioma principal é Português-Brasil (porém falo também inglês e espanhol).<br>
 - Sou gerente de comunidade e assessor da [Noodles Picante](https://www.noodlespicante.com) ([@noodlespicante](https://github.com/noodlespicante))
 - Sou coordenador de programação geral do [Penguin Dimension](https://www.conexaopinguim.pw) ([@PenguinDimension](https://github.com/PenguinDimension))
 
@@ -12,7 +12,8 @@ Há mais chances de resposta no **Discord**
 \- **Não mande pedido de amizade!** Me mencione no [#conversas](https://discord.com/channels/584926863437070336/696846893468090450) que eu respondo.<br>
 • Twitter: [@PiterOfc](https://twitter.com/piterofc) (acesso pouco, mas tem chances de você receber resposta... cerca de 2 semanas depois de enviar?)<br>
 • Email: phenriquenbphnb@gmail.com (quase não acesso, recomendo nem tentar esse método)<br>
-• Email (Club Penguin): phenriquenbcp@gmail.com (quase não acesso tbm, recomendo nem tentar)<br>
+• Email (Club Penguin): phenriquenbcp@gmail.com (quase não acesso, recomendo nem tentar esse método)<br>
+• LinkedIn: [piterofc](www.linkedin.com/in/piterofc) (acesso pouco, não recomendo tentar entrar em contato por ele)
 
 🧨 Noodles Picante
 ----
