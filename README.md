@@ -4,6 +4,8 @@ Me chamo Pedro Henrique, tenho 18 anos (15/08/2005) e meu idioma principal é Po
 - Sou gerente de comunidade e assessor da [Noodles Picante](https://www.noodlespicante.com) ([@noodlespicante](https://github.com/noodlespicante))
 - Sou coordenador de programação geral do [Penguin Dimension](https://www.conexaopinguim.pw) ([@PenguinDimension](https://github.com/PenguinDimension))
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/351111345971789825?showDisplayName=true&idleMessage=SouNP%20-%20https\:\/\/www\.noodlespicante\.com)](https://discord.com/users/351111345971789825)
+
 📩 Contato
 ----
 Há mais chances de resposta no **Discord**
