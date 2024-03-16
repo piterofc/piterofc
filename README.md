@@ -15,7 +15,7 @@ Há mais chances de resposta no **Discord**
 \- **Não mande pedido de amizade!** Me mencione no [#conversas](https://discord.com/channels/584926863437070336/696846893468090450) que eu respondo.<br>
 • Twitter: [@PiterOfc](https://twitter.com/piterofc) (acesso pouco, mas tem chances de você receber resposta... cerca de 2 semanas depois de enviar?)<br>
 • Email: phenriquenbphnb@gmail.com (quase não acesso, recomendo nem tentar)<br>
-• LinkedIn: [piterofc](www.linkedin.com/in/piterofc) (acesso pouco, não recomendo tentar)
+• LinkedIn: [piterofc](https://www.linkedin.com/in/piterofc) (acesso pouco, não recomendo tentar)
 
 📊 Meus status
 ----
