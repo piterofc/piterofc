@@ -1,7 +1,7 @@
 ### Olá 👋
 
 Me chamo Pedro Henrique, tenho 18 anos (15/08/2005) e meu idioma principal é Português-Brasil (porém falo também inglês e espanhol).<br>
-- Estudante de engenharia de software da PUC Minas
+- Estudante de engenharia de software na PUC Minas (Praça da Liberdade)
 - Gerente de comunidade e assessor da [Noodles Picante](https://www.noodlespicante.com) ([@noodlespicante](https://github.com/noodlespicante))
 - Coordenador de programação geral do [Club Penguin Dimensions](https://www.cpdimensions.com) ([@PenguinDimension](https://github.com/PenguinDimension))
 
