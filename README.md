@@ -1,23 +1,73 @@
-### Olá 👋
+# Olá 👋
 
-Me chamo Pedro Henrique, tenho 18 anos (15/08/2005) e meu idioma principal é Português-Brasil (porém falo também inglês e espanhol).<br>
-- Estudante de engenharia de software na PUC Minas (Praça da Liberdade)
-- Gerente de comunidade e assessor da [Noodles Picante](https://www.noodlespicante.com) ([@noodlespicante](https://github.com/noodlespicante))
-- Coordenador de programação geral do [Club Penguin Dimensions](https://www.cpdimensions.com) ([@PenguinDimension](https://github.com/PenguinDimension))
+Eu me chamo Pedro Henrique e tenho 18 anos. Nasci em Belo Horizonte (MG) dia 15/08/2005 e meu idioma principal é Português brasileiro.<br>
+Sei um pouco de inglês e espanhol, e no meu tempo livre gosto de programar, fazer designs gráficos, ouvir música, ir call no Discord e jogar um pouquinho de Mine!<br>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/351111345971789825?showDisplayName=true&idleMessage=SouNP%20-%20https\:\/\/www\.noodlespicante\.com)](https://discord.com/users/351111345971789825)
+- 🎈 Curiosidades
+  - 🎓 Estudante de engenharia de software na PUC Minas (Praça da Liberdade) 2023-2027<br>
+  - 🌱 Aprendendo mais sobre NodeJS e Python<br>
+  - 🤔 Estou sempre desenvolvendo... bugs?!<br>
+
+- 💼 Projetos
+  - 🏃‍♂️ Gerente de comunidade e assessor da [Noodles Picante](https://www.noodlespicante.com) ([@noodlespicante](https://github.com/noodlespicante))<br>
+  - 🐧 Coordenador de programação geral do [Club Penguin Dimensions](https://www.cpdimensions.com) ([@PenguinDimension](https://github.com/PenguinDimension))<br>
+  - 🧩 Master e administrador do [SaturnMC](https://discord.gg/wcUJgsYUaq) (em desenvolvimento)<br>
+
+<br>
 
 📩 Contato
 ----
-Há mais chances de resposta no **Discord**
+• **Discord:** [@piterofc](https://discord.com/users/351111345971789825) - me encontre no [servidor da Noodles Picante](https://discord.gg/P9dhMJQ)<br>
+• **LinkedIn:** [/in/pedrohenriquenb](https://www.linkedin.com/in/pedrohenriquenb)<br>
+• **Twitter:** [@PiterOfc](https://twitter.com/piterofc) - acesso pouco<br>
+• **Email:** phenriquenbphnb@gmail.com - praticamente não acesso (é um método meio antigo, não acha?)<br>
 
-• Discord: @piterofc (antigo Piter#6645) - me encontre no [servidor da Noodles Picante](https://discord.gg/P9dhMJQ)<br>
-\- **Não mande pedido de amizade!** Me mencione no [#conversas](https://discord.com/channels/584926863437070336/696846893468090450) que eu respondo.<br>
-• Twitter: [@PiterOfc](https://twitter.com/piterofc) (acesso pouco, mas tem chances de você receber resposta... cerca de 2 semanas depois de enviar?)<br>
-• Email: phenriquenbphnb@gmail.com (quase não acesso, recomendo nem tentar)<br>
-• LinkedIn: [piterofc](https://www.linkedin.com/in/piterofc) (acesso pouco, não recomendo tentar)
+<br>
 
-📊 Meus status
+📊 Status
 ----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piterofc&show_icons=true&include_all_commits=true&locale=pt-br)](https://github.com/piterofc)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piterofc&locale=pt-br&layout=compact)](https://github.com/piterofc)<br>
+
+<br>
+<table>
+  <tr>
+    <td>
+      <a href="https://discord.com/users/351111345971789825"><img src="https://lanyard.cnrad.dev/api/351111345971789825?showDisplayName=true&idleMessage=SouNP%20-%20https\:\/\/www\.noodlespicante\.com"/></a>
+    </td>
+    <td>
+        <table>
+          <tr>
+            <td>Linguagens</td>
+            <td><a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,c,nodejs,py" style="height: 30px;"/></a></td>
+          </tr>
+          <tr>
+            <td>Frameworks</td>
+            <td><a href="#"><img src="https://skillicons.dev/icons?i=bootstrap,electron,express,jquery,discordjs" style="height: 30px;"/></a></td>
+          </tr>
+          <tr>
+            <td>Armazenamento de dados</td>
+            <td><a href="#"><img src="https://skillicons.dev/icons?i=postgres,redis" style="height: 30px;"/></a></td>
+          </tr>
+          <tr>
+            <td>Ferramentas</td>
+            <td><a href="#"><img src="https://skillicons.dev/icons?i=vscode,github,git,npm,docker,cloudflare,replit,codepen,postman" style="height: 30px;"/></a></td>
+          </tr>
+        </table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="#">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piterofc&locale=pt-br&layout=compact">
+        </a>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="#">
+          <img src="https://github-readme-stats.vercel.app/api?username=piterofc&show_icons=true&include_all_commits=true&locale=pt-br">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
