@@ -1,7 +1,8 @@
 # Olá 👋
 
-Eu me chamo Pedro Henrique e tenho 18 anos. Nasci em Belo Horizonte (MG) dia 15/08/2005 e meu idioma principal é Português brasileiro.<br>
-Sei um pouco de inglês e espanhol, e no meu tempo livre gosto de programar, fazer designs gráficos, ouvir música, ir call no Discord e jogar um pouquinho de Mine!<br>
+Eu me chamo Pedro Henrique e tenho 18 anos.<br>
+Nasci em Belo Horizonte (MG) dia 15/08/2005 e meu idioma principal é Português brasileiro.<br>
+No meu tempo livre gosto de programar, ouvir música, ir call no Discord e jogar um pouquinho de Mine!<br>
 
 - 🎈 Curiosidades
   - 🎓 Estudante de engenharia de software na PUC Minas (Praça da Liberdade) 2023-2027<br>
