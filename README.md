@@ -32,7 +32,7 @@ No meu tempo livre gosto de programar, ouvir música, ir call no Discord e jogar
 <table>
   <tr>
     <td>
-      <a href="https://discord.com/users/351111345971789825"><img src="https://lanyard.cnrad.dev/api/351111345971789825?showDisplayName=true&idleMessage=SouNP%20-%20https\:\/\/www\.noodlespicante\.com"/></a>
+      <a href="https://discord.com/users/351111345971789825"><img src="https://lanyard.cnrad.dev/api/351111345971789825?showDisplayName=true&idleMessage=SouNP%20-%20https://www.noodlespicante.com"/></a>
     </td>
     <td>
         <table>
