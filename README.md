@@ -5,7 +5,7 @@ Nasci em Belo Horizonte (MG) dia 15/08/2005 e meu idioma principal é Português
 No meu tempo livre gosto de programar, ouvir música, ir call no Discord e jogar um pouquinho de Mine!<br>
 
 - 🎈 Curiosidades
-  - 🎓 Estudante de engenharia de software na PUC Minas (Praça da Liberdade) 2023-2027<br>
+  - 🎓 Estudante de engenharia de software na PUC Minas (Praça da Liberdade) 2024-2027<br>
   - 🌱 Aprendendo mais sobre NodeJS e Python<br>
   - 🤔 Estou sempre desenvolvendo... bugs?!<br>
 
