@@ -1,0 +1,32 @@
+name: Update Age
+
+on:
+  schedule:
+    - cron: "00 03 15 8 *"
+  workflow_dispatch:
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out the repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Run the script to update age
+      run: python update_age.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "phenriquenbphnb@gmail.com"
+        git config --local user.name "piterofc"
+        git add README.md
+        git commit -m "Atualizando idade automaticamente"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
