@@ -1,6 +1,6 @@
 # Olá 👋
 
-Eu me chamo Pedro Henrique e tenho 19 anos.<br>
+Eu me chamo Pedro Henrique e tenho 20 anos.<br>
 Nasci em Belo Horizonte (MG) dia 15/08/2005 e meu idioma principal é Português brasileiro.<br>
 No meu tempo livre gosto de programar, ouvir música, ir call no Discord e jogar um pouquinho de Mine!<br>
 
