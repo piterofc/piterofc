@@ -38,7 +38,7 @@ No meu tempo livre gosto de programar, ouvir música, ir call no Discord e jogar
         <table>
           <tr>
             <td>Linguagens</td>
-            <td><a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,c,nodejs,py" style="height: 30px;"/></a></td>
+            <td><a href="#"><img src="https://skillicons.dev/icons?i=html,css,md,js,nodejs,py,java,c" style="height: 30px;"/></a></td>
           </tr>
           <tr>
             <td>Frameworks</td>
@@ -46,11 +46,11 @@ No meu tempo livre gosto de programar, ouvir música, ir call no Discord e jogar
           </tr>
           <tr>
             <td>Armazenamento de dados</td>
-            <td><a href="#"><img src="https://skillicons.dev/icons?i=postgres,redis" style="height: 30px;"/></a></td>
+            <td><a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase" style="height: 30px;"/></a></td>
           </tr>
           <tr>
             <td>Ferramentas</td>
-            <td><a href="#"><img src="https://skillicons.dev/icons?i=vscode,github,git,npm,docker,cloudflare,replit,codepen,postman" style="height: 30px;"/></a></td>
+            <td><a href="#"><img src="https://skillicons.dev/icons?i=vscode,github,git,npm,docker,nginx,cloudflare,replit,codepen,postman,figma,netlify,heroku" style="height: 30px;"/></a></td>
           </tr>
         </table>
     </td>
