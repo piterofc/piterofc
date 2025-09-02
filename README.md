@@ -5,12 +5,12 @@ Nasci em Belo Horizonte (MG) dia 15/08/2005 e meu idioma principal é Português
 No meu tempo livre gosto de programar, ouvir música, ir call no Discord e jogar um pouquinho de Mine!<br>
 
 - 🎈 Curiosidades
-  - 🎓 Estudante de engenharia de software na PUC Minas (Praça da Liberdade) 2024-2027<br>
-  - 🌱 Aprendendo mais sobre NodeJS e Python<br>
+  - 🎓 Estudante de engenharia de software na PUC Minas (Campus Lourdes) 2024-2027<br>
+  - 🌱 Aprendendo mais sobre NodeJS, Java e Python<br>
   - 🤔 Estou sempre desenvolvendo... bugs?!<br>
 
 - 💼 Projetos
-  - 🏃‍♂️ Gerente de comunidade e assessor da [Noodles Picante](https://www.noodlespicante.com) ([@noodlespicante](https://github.com/noodlespicante))<br>
+  - 🏃‍♂️ Administrador da [Noodles Picante](https://www.noodlespicante.com) ([@noodlespicante](https://github.com/noodlespicante))<br>
   - 🐧 Coordenador de programação geral do [Club Penguin Dimensions](https://www.cpdimensions.com) ([@PenguinDimension](https://github.com/PenguinDimension))<br>
   - 🧩 Master e administrador do [SaturnMC](https://discord.gg/wcUJgsYUaq) (em desenvolvimento)<br>
 
@@ -55,20 +55,13 @@ No meu tempo livre gosto de programar, ouvir música, ir call no Discord e jogar
         </table>
     </td>
   </tr>
-  <tr>
-    <td>
-      <p align="center">
-        <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piterofc&locale=pt-br&layout=compact">
-        </a>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api?username=piterofc&show_icons=true&include_all_commits=true&locale=pt-br">
-        </a>
-      </p>
-    </td>
-  </tr>
 </table>
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=piterofc&show_icons=true&include_all_commits=true&locale=pt-br">
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piterofc&locale=pt-br&layout=compact">
+  </a>
+</p>
