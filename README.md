@@ -42,11 +42,11 @@ No meu tempo livre gosto de programar, ouvir música, ir call no Discord e jogar
           </tr>
           <tr>
             <td>Frameworks</td>
-            <td><a href="#"><img src="https://skillicons.dev/icons?i=bootstrap,electron,express,jquery,discordjs" style="height: 30px;"/></a></td>
+            <td><a href="#"><img src="https://skillicons.dev/icons?i=bootstrap,tailwind,electron,express,jquery,discordjs,spring" style="height: 30px;"/></a></td>
           </tr>
           <tr>
             <td>Armazenamento de dados</td>
-            <td><a href="#"><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase" style="height: 30px;"/></a></td>
+            <td><a href="#"><img src="https://skillicons.dev/icons?i=postgres,sequelize,mysql,redis,firebase,sqlite" style="height: 30px;"/></a></td>
           </tr>
           <tr>
             <td>Ferramentas</td>
